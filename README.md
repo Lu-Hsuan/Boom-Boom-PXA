@@ -19,4 +19,4 @@ boomboomPXA
 ![螢幕擷取畫面 2024-03-22 161254](https://github.com/Lu-Hsuan/Boom-Boom-PXA/assets/67006922/2efa66d2-349b-4160-b9a2-76cd01071f15)
 
 - Game Screen
-  [Video](https://drive.google.com/file/d/1Bfdq30l5kfQ_rSSdSv0CNt1KaOtWEXCN/view?usp=sharing)
+  > [Video](https://drive.google.com/file/d/1WJOrY8lRYEseCb4X9karczx_lZ3V8wPJ/view?usp=sharing)
