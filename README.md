@@ -20,6 +20,6 @@ boomboomPXA
 
 - Game Screen
 <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1WJOrY8lRYEseCb4X9karczx_lZ3V8wPJ/view?usp=drive_link" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1Bfdq30l5kfQ_rSSdSv0CNt1KaOtWEXCN/view?usp=drive_link" type="video/mp4">
 </video>
 
