@@ -19,4 +19,7 @@ boomboomPXA
 ![螢幕擷取畫面 2024-03-22 161254](https://github.com/Lu-Hsuan/Boom-Boom-PXA/assets/67006922/2efa66d2-349b-4160-b9a2-76cd01071f15)
 
 - Game Screen
-[![Watch the video]([https://img.youtube.com/vi/liJVSwOiiwg?si=F9DJrcFyFZw1Iv0R/maxresdefault.jpg)](https://youtu.be/sRQrZ1KpO1s?si=cb1Ezp2KSf0XeFct](https://drive.google.com/file/d/1WJOrY8lRYEseCb4X9karczx_lZ3V8wPJ/view?usp=drive_link)https://drive.google.com/file/d/1WJOrY8lRYEseCb4X9karczx_lZ3V8wPJ/view?usp=drive_link)
+<video width="320" height="240" controls>
+  <source src="https://drive.google.com/file/d/1WJOrY8lRYEseCb4X9karczx_lZ3V8wPJ/view?usp=drive_link" type="video/mp4">
+</video>
+
